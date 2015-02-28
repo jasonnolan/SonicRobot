@@ -1,4 +1,4 @@
-// original code by by daniel-boersen@hotmail.com (though perhaps he lifted it from http://arduino.cc/en/Tutorial/ping)
+// original code by by daniel-boersen@hotmail.com (though perhaps he cribbed it from http://arduino.cc/en/Tutorial/ping)
 // that got a working bot with 1 sensor
 // tom Igoe's original code
 // my mashifications to get more sensors and to 'choose' where to go
